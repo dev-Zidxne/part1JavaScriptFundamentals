@@ -72,7 +72,7 @@ const description = "Portugal is in Europe, and its 11 million people speak port
 
 // /*LECTURE: Strings and Template Literals
 
-1. Recreate the 'description' variable from the last assignment, this time using the template literal syntax * /
+//1. Recreate the 'description' variable from the last assignment, this time using the template literal syntax * /
 
 const description2 = `${country} is in ${continent}, and its ${population} people speak ${myCountryLanguage}`;
 
