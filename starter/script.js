@@ -1,4 +1,4 @@
-/**/
+/*
 let js = "amazing";
 console.log(40 + 8 + 45 - 10);
 
@@ -119,8 +119,8 @@ console.log(now - 1991 > now - 2018);
 /*let johnHeight = 1.95
 let markHeight = 1.69
 
-johnWeight = 92;
-markWeight = 78;
+let johnWeight = 92;
+let markWeight = 78;
 
 johnBMI = johnWeight / 1.95 ** 2
 
@@ -210,7 +210,7 @@ if (birthYear <= 2000) {
     century = 20;
 } else {
     century = 21;
-}
+} 
 
 console.log(century);
 
@@ -453,7 +453,7 @@ if (age >= 18) {
 console.log(drink2)
 
 console.log(`I like to drink ${age >= 18 ? "wine" : "Water"}`)
-
+*/
 
 //Coding Challenge #4
 
@@ -461,5 +461,7 @@ const bill = 275
 
 const tip = bill >= 50 && bill <= 300 ? bill * 15 / 100 : bill * 20 / 100;
 console.log(`Bill is ${bill} so tip is ${tip}, and total bill is ${bill + tip}`)
+
+
 
 
