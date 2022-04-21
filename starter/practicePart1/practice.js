@@ -25,6 +25,9 @@
 
 // console.log(`${age >= 18 ? "You can have sex!" : "You cyah have sex :("}`)
 
+
+//JavaScript Fundamentals – Part 1
+
 //LECTURE: Values and Variables
 
 const country = "Jamaica"
